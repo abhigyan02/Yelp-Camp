@@ -66,6 +66,3 @@ $ nodemon app.js
 - Overhaul the UI to create a more interactive experience. Three.js 👀👀
 
 
-## 📣 Acknowledgements
-
- - This skeleton of this project is a cumulation of The Web Developer Bootcamp on Udemy by Colt Steele
