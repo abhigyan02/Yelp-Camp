@@ -1,6 +1,6 @@
 # ⛺ YelpCamp
 
-Yelp-like full-stack web application from the 2022 Web Developer Bootcamp
+Yelp-like full-stack web application from the 2023 Web Developer Bootcamp
 
 ## 📷 Screenshots
 
